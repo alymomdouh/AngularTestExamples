@@ -19,6 +19,9 @@ export class DefaultComponent implements OnInit {
   btnhtmltopdfAppClick = () => {
     this.router.navigateByUrl('/html-to-pdf');
   };
+  btnfiledownloadClick = () => {
+    this.router.navigateByUrl('/file-download');
+  };
 
   ngOnInit(): void {
   }

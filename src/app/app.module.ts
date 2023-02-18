@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 import { DefaultComponent } from 'src/Components/default/default.component';
+import { FileDownloadComponent } from 'src/Components/file-download/file-download.component';
 import { HtmlTopdfComponent } from 'src/Components/html-topdf/html-topdf.component';
 import { RegisterComponent } from 'src/Components/register/register.component';
 import { ToDoAppsComponent } from 'src/Components/to-do-apps/to-do-apps.component';
@@ -16,7 +17,8 @@ import { AppComponent } from './app.component';
     RegisterComponent,
     DefaultComponent,
     ToDoAppsComponent,
-    HtmlTopdfComponent
+    HtmlTopdfComponent,
+    FileDownloadComponent
   ],
   imports: [
     BrowserModule,
