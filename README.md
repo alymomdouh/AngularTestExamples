@@ -1,6 +1,6 @@
 ##  Competed Articles
 ### 1. How To Create Password And Confirm Password Matching Validation In Angular [here](https://www.c-sharpcorner.com/article/how-to-create-password-and-confirm-password-matching-validation-in-angular/)
-
+### 2.Simple Todo App In Angular With Local Storage [here](https://www.c-sharpcorner.com/article/simple-todo-app-in-angular-with-local-storage/)
 
 # AngularTestExamples
 
