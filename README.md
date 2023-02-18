@@ -3,6 +3,7 @@
 ### 2.Simple Todo App In Angular With Local Storage [here](https://www.c-sharpcorner.com/article/simple-todo-app-in-angular-with-local-storage/)
 ### 3.HTML To PDF Using JSPDF In Angular [here](https://www.c-sharpcorner.com/article/html-to-pdf-using-jspdf-in-angular/)
 ### 4.Angular 13 PDF Tutorial – Export PDF in Angular with JSPDF [here](https://www.positronx.io/angular-pdf-tutorial-export-pdf-in-angular-with-jspdf/)
+### 5.File Download In Angular (here)[https://www.c-sharpcorner.com/article/file-download-in-angular/]
 
 
 # AngularTestExamples
