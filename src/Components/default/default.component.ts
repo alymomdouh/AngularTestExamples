@@ -13,6 +13,10 @@ export class DefaultComponent implements OnInit {
   btnRegisterClick = () => {
     this.router.navigateByUrl('/Register');
   };
+  btntodoAppClick = () => {
+    this.router.navigateByUrl('/todo-app');
+  };
+
   ngOnInit(): void {
   }
 }

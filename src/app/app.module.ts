@@ -4,6 +4,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 import { DefaultComponent } from 'src/Components/default/default.component';
 import { RegisterComponent } from 'src/Components/register/register.component';
+import { ToDoAppsComponent } from 'src/Components/to-do-apps/to-do-apps.component';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -12,7 +13,8 @@ import { AppComponent } from './app.component';
   declarations: [
     AppComponent,
     RegisterComponent,
-    DefaultComponent
+    DefaultComponent,
+    ToDoAppsComponent
   ],
   imports: [
     BrowserModule,
@@ -26,7 +28,8 @@ import { AppComponent } from './app.component';
     FormsModule,
     ReactiveFormsModule,
     RegisterComponent,
-    DefaultComponent
+    DefaultComponent,
+    ToDoAppsComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
